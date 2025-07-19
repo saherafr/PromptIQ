@@ -1,4 +1,4 @@
-# PromptIQ — Enterprise-Grade LLM Prompt Optimization API
+# PromptIQ — Enterprise-Grade LLM Prompt Optimization Backend System
 
 PromptIQ is a SaaS-style backend system that evaluates and improves prompts written for large language models.  
 It uses AWS Bedrock (Claude) to generate better versions of user prompts, assigns detailed quality scores, explains improvements, and stores versioned prompt history in DynamoDB.  
