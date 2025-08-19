@@ -6,6 +6,9 @@ It is designed as a **production-ready service** that emphasizes **fault toleran
 
 The project is intentionally structured with **system design principles** to demonstrate how an AI-powered service can be built to scale beyond a prototype.
 
+👉 The live frontend is deployed here: [https://prompt-iq-frontend.vercel.app/](https://prompt-iq-frontend.vercel.app/)
+
+
 ---
 
 ## Workflow
@@ -178,3 +181,4 @@ The project is intentionally structured with **system design principles** to dem
 ## Conclusion
 PromptIQ demonstrates how an **AI-powered backend** can be designed with **scalability, fault tolerance, and system design principles** in mind.  
 It is **optimized for modularity and cost efficiency today**, with a **roadmap toward enterprise SaaS capabilities** for LLM prompt evaluation and optimization.
+
